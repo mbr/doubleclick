@@ -12,7 +12,7 @@ def read(fname):
 
 
 setup(name='doubleclick',
-      version='0.1.dev1',
+      version='0.2.dev1',
       description=
       'Small collection of helper tools for command line applications',
       long_description=read('README.rst'),
