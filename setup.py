@@ -15,7 +15,7 @@ setup(name='doubleclick',
       version='0.1.dev1',
       description=
       'Small collection of helper tools for command line applications',
-      long_description=read('README.md'),
+      long_description=read('README.rst'),
       author='Marc Brinkmann',
       author_email='git@marcbrinkmann.de',
       url='https://github.com/mbr/doubleclick',
